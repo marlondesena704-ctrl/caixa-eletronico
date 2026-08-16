@@ -28,3 +28,6 @@ Projeto de estudo em Java, adaptado para uma versão web interativa, com:
 
 - HTML, CSS e JavaScript puro
 - Sem dependências, sem build, sem servidor
+
+
+*PODE CONTER ERROS DE LÓGICA.
